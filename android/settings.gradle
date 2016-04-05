@@ -1,0 +1,24 @@
+rootProject.name = 'WifiHeatmap'
+
+include ':app'
+
+include ':react-native-maps'
+project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../react-native-maps/android')
+
+include ':react-native-dialogs'
+project(':react-native-dialogs').projectDir = file('../node_modules/react-native-dialogs/android')
+
+include ':RNMaterialKit'
+project(':RNMaterialKit').projectDir = file('../node_modules/react-native-material-kit/android')
+
+include ':react-native-fs'
+project(':react-native-fs').projectDir = new File(settingsDir, '../node_modules/react-native-fs/android')
+
+include ':react-native-sensor-manager'
+project(':react-native-sensor-manager').projectDir = new File(settingsDir, '../node_modules/react-native-sensor-manager/android')
+
+include ':WifiManager'
+project(':WifiManager').projectDir = new File(settingsDir, '../WifiManager/android')
+
+include ':react-native-heading'
+project(':react-native-heading').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-heading/android')

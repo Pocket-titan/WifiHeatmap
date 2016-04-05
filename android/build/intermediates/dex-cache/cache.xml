@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/okhttp-2.5.0-c4b917a958ceb41d6035157a2a1f2bebb56e5f29.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-3aa1cb543d0a6bcb213be3631b9d8c92a3d278ca.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0cc39db3c06f47dee223c382f78e2bff90b74274">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5-89639074bd47b3bffd9f7baf725ac737a3eb3d7e.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.joshblour.discovery/discovery/0.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f62a1341523eed3cbe8d2d842aea6a81d2cdac1">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-bd13c7e13dc3beeef28318431a9456170ccbd426.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-43912e713cab516903073e282d56c1139a60729e.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/stetho-okhttp-1.2.0-55ed73740f9c5e300737586d0fc484ed9bf46256.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/WifiHeatmap/react-native-sensor-manager/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="68528cb4d89c369c0d13a982338cc5f24dd30213">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-f2ebc5473b9900762f91d62e86cb1c8e5628733b.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-5a46a140990c5b583c25a3142d81dad1f9f45537.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/okio-1.6.0-8676bfa25c724749e5297c2da5c203ad8dc6d7b4.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/8f8ab21/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dbcc6fe34b79c4e509b3f9d18221416d6f33b9d7">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-5fc41481c1af6259b19878c171b9ba7ce741e9b3.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/WifiHeatmap/WifiManager/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9271177d275149005abe32d45f0d36bdb9065efa">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-14ac9eb6340ab9e8397a8bb05e39db43b559df57.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4d3de1e946207667e76261421de0218f132960e0">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-b0fd6dcb481aa44cc6ec4da6410659046c980128.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/WifiHeatmap/react-native-fs/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="70ac2bc7a35a764a750b1e5cbd4f007392b27edb">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-199463da6be7db82d7619d3ab982e9b491283171.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/8f8ab21/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7b7ac4cab249fe1e48f6e20948916c0215c85e99">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-bd279fc190c2cdccb0126e52e2a99fab89aaaa80.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b2f15bec1db9a9fddabbc29cf0172333040d7d7">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-0d836dbadb497bf3f0868de537d753dcab3f9031.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/WifiHeatmap/RNMaterialKit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b4f1e2fb192151ad3878889129ff04b337f5a13d">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-3d6acca68a8f012fe281ffc446328731e4d1a39c.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-e4bd7c9d7c6149f1976c3de6bd491978830882a5.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-92d759e35bdc0c62be741c03f1ec1a5045d9afc6.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1-837135b78c17b58cb54c623471ecd6b39e158fd2.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-25d71703f67f28b354cc41b1b9266c98236297bb.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/WifiHeatmap/react-native-heading/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5f399ffe2bab61323b9235d8e1b881fb21daaa47">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-62ffd25aef1853d3f98c039ad1e5e91d26fe1584.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0-e97e13ce7668c8bbb9238e33d8ee98bcaa6ff81d.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-8bb5cdfe26a40432ed02a7dd5160ba88ac726d47.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/okhttp-ws-2.5.0-4c98b4799bcddf04fe509903037ab868d6cb0ff6.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/bolts-android-1.1.4-821aa03fa4499327176090473eb58e8a4ab9deea.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-62eaf72a829d1ccb77461b6df922b3e978a7b908.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/library-2.4.0-848173f9b45752c6f12ceff79f6c484f79969db0.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/WifiHeatmap/react-native-dialogs/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f263c135a41267f4af6289626cc46a8c4606d3d6">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-32385136e40fcbc27ac339908726a7482bef1ddb.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/commons-cli-1.2-589af1a6b87aafb1dd04b55382ef47e08c91a8fb.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-da61a7cd4d3a49d67c7ce438a91a9f1752e1e739.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1-cf5a4cf6fff4d85a10534d798ce611bdf8928af7.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-fcffbf13b6f4a9600408363837fd3c2769ce8b8b.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-414ff5d7835e3f1f7e156b2b133adcd9d7e0c8da.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/jackson-core-2.2.3-17e0b0168d6f5ffcf436fe2a4b31193904c37b16.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-603b3fb31ccc72ed115a483923f9c718014d1cb6.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/exploded-aar/WifiHeatmap/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5a9bc5422e2dc49df1a3bad35c8dc74e0e29653f">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/classes-24503f39425affcbd3c20f17dfaeeea817574014.jar" />
+    </item>
+    <item
+        jar="/Users/Jelmar/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/Jelmar/Projects/WifiHeatmap/android/app/build/intermediates/pre-dexed/release/stetho-1.2.0-9bf9c5679acc754c8452246728d93f16348f1ef6.jar" />
+    </item>
+
+</items>
